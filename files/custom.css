@@ -1,0 +1,13 @@
+.addOns {
+    background-color: #028E89;
+}
+
+.addOns h1 {
+    color: #fff;
+    padding: 16px;
+    font-size: 20px;
+}
+
+.borderBottom{
+    border-bottom: 1px solid #A7A6A6;
+}
